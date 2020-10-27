@@ -1,2 +1,0 @@
-# Waterloo
-# rahijj.github.io
