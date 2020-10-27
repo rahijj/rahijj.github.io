@@ -23,8 +23,6 @@
     "uuid": "^3.3.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "main -d build",
     "start": "export HTTPS=true && react-scripts start",
     "build": "react-scripts build && cat sw-config.js >> ./build/service-worker.js",
     "test": "react-scripts test",
